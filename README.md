@@ -1,2 +1,2 @@
 # Estrutura-de-dados
- Projeto feito durante o curso de Estrutura de Dados
+Curso de estrutura de dados usando Java do Professor Isidro
